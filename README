@@ -16,31 +16,15 @@ DESCRIPTION
     subsequent calls.
 
 SEE ALSO
-    See the Aspect pods for a guide to the Aspect module.
+    See the Aspect documentation for a guide to the Aspect module.
 
     You can find an example of using this aspect in the "examples/"
     directory of the distribution.
-
-BUGS AND LIMITATIONS
-    No bugs have been reported.
-
-    Please report any bugs or feature requests through the web interface at
-    <http://rt.cpan.org>.
 
 SUPPORT
     Please report any bugs or feature requests through the web interface at
     <http://rt.cpan.org/Public/Dist/Display.html?Name=Aspect-Library-Memoize
     >.
-
-INSTALLATION
-    See perlmodinstall for information and options on installing Perl
-    modules.
-
-AVAILABILITY
-    The latest version of this module is available from the Comprehensive
-    Perl Archive Network (CPAN). Visit <http://www.perl.com/CPAN/> to find a
-    CPAN site near you. Or see
-    <http://www.perl.com/CPAN/authors/id/M/MA/MARCEL/>.
 
 AUTHORS
     Adam Kennedy <adamk@cpan.org>
@@ -56,7 +40,7 @@ SEE ALSO
 COPYRIGHT AND LICENSE
     Copyright 2001 by Marcel Grünauer
 
-    Some parts copyright 2009 - 2010 Adam Kennedy.
+    Some parts copyright 2009 - 2011 Adam Kennedy.
 
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
